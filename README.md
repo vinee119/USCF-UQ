@@ -2,6 +2,10 @@
 
 Unified Structural Counterfactual Framework for Domain-General Reasoning Under Uncertainty
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20200827.svg)](https://doi.org/10.5281/zenodo.20200827)
+
+Archived and published via Zenodo.
+
 ---
 
 ## Overview
@@ -236,7 +240,9 @@ USCF-UQ/
 │
 ├── requirements.txt
 ├── README.md
-└── LICENSE
+├── LICENSE
+└── NOTICE.md
+```
 
 ---
 
@@ -257,6 +263,7 @@ Execute the notebooks phase-by-phase using Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
+
 Run notebooks sequentially from:
 
 1. phase1_data_understanding.ipynb
