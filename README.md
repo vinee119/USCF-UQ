@@ -1,7 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20200827.svg)](https://doi.org/10.5281/zenodo.20200827)
-
-Archived and published via Zenodo.
-
 # USCF-UQ
 
 Unified Structural Counterfactual Framework for Domain-General Reasoning Under Uncertainty
