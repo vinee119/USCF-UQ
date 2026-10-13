@@ -249,7 +249,7 @@ USCF-UQ/
 ## Installation
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/vinee119/USCF-UQ.git
 cd USCF-UQ
 pip install -r requirements.txt
 ```
